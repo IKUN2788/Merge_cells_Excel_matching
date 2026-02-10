@@ -1,3 +1,5 @@
+<img width="984" height="841" alt="PixPin_2026-02-10_16-31-23" src="https://github.com/user-attachments/assets/f7bd02ac-ace1-40eb-ad95-2239ee555847" />
+
 # 合并单元格匹配工具（PyQt5）
 
 ## 功能
